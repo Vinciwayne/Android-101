@@ -1,2 +1,4 @@
 # Android-101
  Android Development
+
+ EACH FOLDERS CONTAINS THE QUESTIONS IN README.MD FILE
